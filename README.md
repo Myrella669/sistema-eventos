@@ -41,8 +41,7 @@ O sistema permite criar uma conta, entrar, cadastrar eventos, consultar os detal
 5. Abra http://localhost:8000 no navegador.
 
 ## Usuário de teste
-- E-mail: teste@exemplo.com
-- Senha: COLOQUE-AQUI-A-SENHA-QUE-VOCE-CADASTROU
+Nenhuma conta vem pré-cadastrada. Para testar, abra a tela de cadastro (`/cadastro.php`), crie uma conta e entre com ela.
 
 ## Estrutura do projeto
 - `css/estilo.css`: estilos
