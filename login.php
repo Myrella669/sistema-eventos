@@ -58,5 +58,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
         <p>Não tem conta? <a href="cadastro.php">Cadastre-se</a></p>
     </main>
+        </main>
+    <script src="js/scripts.js"></script>
+</body>
+</html>
 </body>
 </html>

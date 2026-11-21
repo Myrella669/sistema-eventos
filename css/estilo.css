@@ -107,3 +107,11 @@ a { color: #1d4ed8; }
     .caixa { margin: 20px auto; padding: 18px; }
     .btn-perigo { margin-left: 0; margin-top: 8px; }
 }
+.btn-olho {
+    margin-top: 6px;
+    width: auto;
+    padding: 6px 12px;
+    background: #6b7280;
+    font-size: 0.85rem;
+}
+.btn-olho:hover { background: #4b5563; }

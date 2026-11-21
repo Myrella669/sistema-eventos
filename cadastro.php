@@ -80,5 +80,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
         <p>Já tem conta? <a href="login.php">Entrar</a></p>
     </main>
+        </main>
+    <script src="js/scripts.js"></script>
+</body>
+</html>
 </body>
 </html>
