@@ -70,4 +70,4 @@ Nenhuma conta vem pré-cadastrada. Para testar, abra a tela de cadastro (`/cadas
 ![Detalhes](Prints/detalhes.png)
 
 ### Meus agendamentos
-![Meus agendamentos](Prints/meus-agendamentos.png)
+![Meus agendamentos](Prints/agendamentos.png)
